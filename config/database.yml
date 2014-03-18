@@ -14,7 +14,7 @@ development:
   database: rails4_mysql_mongo_development
   pool: 5
   username: root
-  password:
+  password: abc123
   host: localhost
 
 # Warning: The database defined as "test" will be erased and
